@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PeopleManager.Data\PeopleManager.Data.csproj" />
+    <ProjectReference Include="..\PeopleManager.Model\PeopleManager.Model.csproj" />
+  </ItemGroup>
+
+</Project>
